@@ -51,7 +51,7 @@ const VideoCard = ({ id, videoSrc, poster, title, category, galleryId }: { id: s
                 </div>
             </div>
             <h3 className="work__title">{title}</h3>
-            <a href={`/gallery#${galleryId}`} className="work__button">
+            <a href={`/gallery/videos#${galleryId}`} className="work__button">
                 View All <i className="bx bx-right-arrow-alt work__icon"></i>
             </a>
         </div>
@@ -65,7 +65,7 @@ const ImageCard = ({ src, title, category, galleryId }: { src: string, title: st
                 <img src={src} alt={title} className="work__video" />
             </div>
             <h3 className="work__title">{title}</h3>
-            <a href={`/gallery#${galleryId}`} className="work__button">
+            <a href={`/gallery/photos#${galleryId}`} className="work__button">
                 View All <i className="bx bx-right-arrow-alt work__icon"></i>
             </a>
         </div>

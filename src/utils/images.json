@@ -1,0 +1,142 @@
+{
+    "photos": [
+        {
+            "type": "image",
+            "category": "auto-photos",
+            "src": "https://i.imgur.com/DHgBSfm.jpeg",
+            "title": "Luxury Sedan Detail",
+            "description": "Close-up of leather interior"
+        },
+        {
+            "type": "image",
+            "category": "auto-photos",
+            "src": "https://i.imgur.com/ks9Qs3K.png",
+            "title": "Speed on Track",
+            "description": "Motion blur shot of a supercar"
+        },
+        {
+            "type": "image",
+            "category": "auto-photos",
+            "src": "https://i.imgur.com/NHLvW3V.png",
+            "title": "Classic Curves",
+            "description": "Vintage car restoration"
+        },
+        {
+            "type": "image",
+            "category": "auto-photos",
+            "src": "https://i.imgur.com/NHLvW3V.png",
+            "title": "Night Drive",
+            "description": "Neon lights reflecting on paint"
+        },
+        {
+            "type": "image",
+            "category": "auto-photos",
+            "src": "https://i.imgur.com/NHLvW3V.png",
+            "title": "Desert Run",
+            "description": "SUV in the dunes"
+        },
+        {
+            "type": "image",
+            "category": "auto-photos",
+            "src": "https://i.imgur.com/NHLvW3V.png",
+            "title": "Modern Cockpit",
+            "description": "Dashboard electronics"
+        },
+        {
+            "type": "image",
+            "category": "re-photos",
+            "src": "https://i.imgur.com/NHLvW3V.png",
+            "title": "Modern Villa",
+            "description": "Living room with garden view"
+        },
+        {
+            "type": "image",
+            "category": "re-photos",
+            "src": "https://i.imgur.com/NHLvW3V.png",
+            "title": "Minimalist Loft",
+            "description": "Industrial design space"
+        },
+        {
+            "type": "image",
+            "category": "re-photos",
+            "src": "https://i.imgur.com/NHLvW3V.png",
+            "title": "Penthouse View",
+            "description": "Sunset over the city"
+        },
+        {
+            "type": "image",
+            "category": "re-photos",
+            "src": "https://i.imgur.com/NHLvW3V.png",
+            "title": "Luxury Kitchen",
+            "description": "High-end appliances and marble"
+        },
+        {
+            "type": "image",
+            "category": "wed-photos",
+            "src": "https://i.imgur.com/NHLvW3V.png",
+            "title": "The Vow",
+            "description": "Candid wedding moment"
+        },
+        {
+            "type": "image",
+            "category": "wed-photos",
+            "src": "https://i.imgur.com/NHLvW3V.png",
+            "title": "Bride Portrait",
+            "description": "Elegant bridal shot"
+        },
+        {
+            "type": "image",
+            "category": "food-photos",
+            "src": "https://i.imgur.com/NHLvW3V.png",
+            "title": "Gourmet Dish",
+            "description": "Fine dining presentation"
+        },
+        {
+            "type": "image",
+            "category": "food-photos",
+            "src": "https://i.imgur.com/NHLvW3V.png",
+            "title": "Product Shot",
+            "description": "Luxury watch on display"
+        },
+        {
+            "type": "image",
+            "category": "event-photos",
+            "src": "https://i.imgur.com/NHLvW3V.png",
+            "title": "Concert Light",
+            "description": "Stage performance energy"
+        },
+        {
+            "type": "image",
+            "category": "event-photos",
+            "src": "https://i.imgur.com/NHLvW3V.png",
+            "title": "Corporate Gala",
+            "description": "Grand ballroom event"
+        }
+    ],
+    "filters": [
+        {
+            "id": "all",
+            "label": "All Photos"
+        },
+        {
+            "id": "auto-photos",
+            "label": "Automotive"
+        },
+        {
+            "id": "re-photos",
+            "label": "Real Estate"
+        },
+        {
+            "id": "wed-photos",
+            "label": "Wedding"
+        },
+        {
+            "id": "food-photos",
+            "label": "Product"
+        },
+        {
+            "id": "event-photos",
+            "label": "Events"
+        }
+    ]
+}

@@ -1,13 +1,20 @@
+'use client';
+
 import React from 'react';
+import { BackgroundBeams } from '@/components/ui/background-beams';
+import { TextGenerateEffect } from '@/components/ui/text-generate-effect';
 
 const Hero = () => {
     return (
-        <section className="home section" id="home">
-            <div className="home__container container grid">
+        <section className="home section relative overflow-hidden" id="home">
+            <div className="home__container container grid relative z-10">
                 <div className="home__data">
                     <span className="home__greeting">Hello, I'm</span>
-                    <h1 className="home__name">MUHAMMED SAHAL TK</h1>
-                    <h3 className="home__education">PHOTOGRAPHER / VIDEOGRAPHER / EDITOR</h3>
+                    <TextGenerateEffect
+                        words="MUHAMMED SAHAL TK"
+                        className="home__name font-bold text-4xl md:text-6xl text-white mb-4"
+                    />
+                    <h3 className="home__education mt-4">PHOTOGRAPHER / VIDEOGRAPHER / EDITOR</h3>
 
                     <div className="home__buttons">
                         <a download="" href="/assets/pdf/photographer-muhammed-sahal-tk.pdf" className="button button--ghost">
@@ -18,7 +25,7 @@ const Hero = () => {
                 </div>
 
                 <div className="home__handle">
-                    <img src="/assets/img/Me.jpg" alt="Muhammed Sahal TK" className="home__img" style={{ width: '500px' }} />
+                    <img src="/assets/img/me.jpg" alt="Muhammed Sahal TK" className="home__img" style={{ width: '500px' }} />
                 </div>
 
                 <div className="home__social">
@@ -35,6 +42,7 @@ const Hero = () => {
                     <span className="home__scroll-name">Scroll Down</span>
                 </a>
             </div>
+            {/* <BackgroundBeams /> */}
         </section>
     );
 };

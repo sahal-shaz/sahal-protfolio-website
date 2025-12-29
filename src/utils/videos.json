@@ -1,0 +1,162 @@
+{
+    "videos": [
+        {
+            "type": "video",
+            "category": "auto-reels",
+            "thumb": "https://i.imgur.com/NHLvW3V.png",
+            "videoSrc": "https://drive.google.com/file/d/1CR8ujgIVyIZkyqst5fwCEaCAvuM4xOi8/preview",
+            "title": "Speed & Elegance",
+            "category_label": "Automotive"
+        },
+        {
+            "type": "video",
+            "category": "auto-reels",
+            "thumb": "https://i.imgur.com/NHLvW3V.png",
+            "videoSrc": "https://drive.google.com/file/d/1O2ONWEGsDH_GmSOAkuITfJJ-ETkMyDug/preview",
+            "title": "Night Shift",
+            "category_label": "Automotive"
+        },
+        {
+            "type": "video",
+            "category": "auto-reels",
+            "thumb": "https://i.imgur.com/NHLvW3V.png",
+            "videoSrc": "https://drive.google.com/file/d/11e4RLR_W-9tQIAM8r_QFaVIdNJxs2K-F/preview",
+            "title": "Drift King",
+            "category_label": "Automotive"
+        },
+        {
+            "type": "video",
+            "category": "auto-reels",
+            "thumb": "https://i.imgur.com/NHLvW3V.png",
+            "videoSrc": "https://drive.google.com/file/d/17gGFiLwvt740DQoXrgyO2GjecM9n17UR/preview",
+            "title": "City Lights",
+            "category_label": "Automotive"
+        },
+        {
+            "type": "video",
+            "category": "auto-reels",
+            "thumb": "https://i.imgur.com/NHLvW3V.png",
+            "videoSrc": "https://drive.google.com/file/d/1qjecuBMo3gVEmnK1PohIvln_H3IQG6rJ/preview",
+            "title": "Mountain Pass",
+            "category_label": "Automotive"
+        },
+        {
+            "type": "video",
+            "category": "auto-reels",
+            "thumb": "https://i.imgur.com/NHLvW3V.png",
+            "videoSrc": "https://drive.google.com/file/d/1J_5HZO3alWnIRJFowVRMuD6TUxiMKusZ/preview",
+            "title": "Track Day",
+            "category_label": "Automotive"
+        },
+        {
+            "type": "video",
+            "category": "content-reels",
+            "thumb": "https://i.imgur.com/NHLvW3V.png",
+            "videoSrc": "https://drive.google.com/file/d/1rSM7kGVxIddFu8SSZLa3xRmr1xz4q33K/preview",
+            "title": "Tech Review",
+            "category_label": "Content"
+        },
+        {
+            "type": "video",
+            "category": "content-reels",
+            "thumb": "https://i.imgur.com/NHLvW3V.png",
+            "videoSrc": "https://drive.google.com/file/d/14R2tEb_t091IakDebLzfYDJnCSiqHQtM/preview",
+            "title": "Vlog Setup",
+            "category_label": "Content"
+        },
+        {
+            "type": "video",
+            "category": "content-reels",
+            "thumb": "https://i.imgur.com/NHLvW3V.png",
+            "videoSrc": "https://drive.google.com/file/d/1y-xMzv877IH7VqGo9ergU6GqG_y1127O/preview",
+            "title": "Workspace Tour",
+            "category_label": "Content"
+        },
+        {
+            "type": "video",
+            "category": "re-reels",
+            "thumb": "https://i.imgur.com/NHLvW3V.png",
+            "videoSrc": "https://drive.google.com/file/d/10dBWkx0Je27G6kQjU5SNbk4bC1HAFQ0n/preview",
+            "title": "Modern Estate",
+            "category_label": "Real Estate"
+        },
+        {
+            "type": "video",
+            "category": "re-reels",
+            "thumb": "https://i.imgur.com/NHLvW3V.png",
+            "videoSrc": "https://drive.google.com/file/d/1qxUAexBkBvDM-peh3TQRTB_E6Mg-nyFl/preview",
+            "title": "Cozy Interior",
+            "category_label": "Real Estate"
+        },
+        {
+            "type": "video",
+            "category": "re-reels",
+            "thumb": "https://i.imgur.com/NHLvW3V.png",
+            "videoSrc": "https://drive.google.com/file/d/1rvMtXiahOgtuB2S_nIC9BuMSBlG2eJHL/preview",
+            "title": "Urban Living",
+            "category_label": "Real Estate"
+        },
+        {
+            "type": "video",
+            "category": "wed-reels",
+            "thumb": "https://i.imgur.com/NHLvW3V.png",
+            "videoSrc": "https://drive.google.com/file/d/12FbB1fQgaJFD1SPXbExKnSVcRneCTTQ0/preview",
+            "title": "Golden Hour",
+            "category_label": "Wedding"
+        },
+        {
+            "type": "video",
+            "category": "wed-reels",
+            "thumb": "https://i.imgur.com/NHLvW3V.png",
+            "videoSrc": "https://drive.google.com/file/d/1bPcOrOq-CAlIUTnmJcmIaWGC0dzUcBbN/preview",
+            "title": "First Dance",
+            "category_label": "Wedding"
+        },
+        {
+            "type": "video",
+            "category": "food-reels",
+            "thumb": "https://i.imgur.com/NHLvW3V.png",
+            "videoSrc": "https://drive.google.com/file/d/1rSM7kGVxIddFu8SSZLa3xRmr1xz4q33K/preview",
+            "title": "Sizzling Steak",
+            "category_label": "Food"
+        },
+        {
+            "type": "video",
+            "category": "event-reels",
+            "thumb": "https://i.imgur.com/NHLvW3V.png",
+            "videoSrc": "https://drive.google.com/file/d/10dBWkx0Je27G6kQjU5SNbk4bC1HAFQ0n/preview",
+            "title": "Neon Night",
+            "category_label": "Event"
+        }
+    ],
+    "filters": [
+        {
+            "id": "all",
+            "label": "All Videos"
+        },
+        {
+            "id": "auto-reels",
+            "label": "Automotive"
+        },
+        {
+            "id": "content-reels",
+            "label": "Content"
+        },
+        {
+            "id": "re-reels",
+            "label": "Real Estate"
+        },
+        {
+            "id": "wed-reels",
+            "label": "Wedding & Model"
+        },
+        {
+            "id": "food-reels",
+            "label": "Food & Product"
+        },
+        {
+            "id": "event-reels",
+            "label": "Event & Commercial"
+        }
+    ]
+}
