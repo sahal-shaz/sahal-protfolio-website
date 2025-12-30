@@ -99,7 +99,7 @@
         {
             "type": "video",
             "category": "content-reels",
-            "thumb": "https://i.imgur.com/NHLvW3V.png",
+            "thumb": "https://i.imgur.com/4tUiHvd.png",
             "videoSrc": "https://drive.google.com/file/d/1rSM7kGVxIddFu8SSZLa3xRmr1xz4q33K/preview",
             "title": "Tech Review",
             "category_label": "Content"
@@ -107,7 +107,7 @@
         {
             "type": "video",
             "category": "content-reels",
-            "thumb": "https://i.imgur.com/NHLvW3V.png",
+            "thumb": "https://i.imgur.com/2SdpAy5.png",
             "videoSrc": "https://drive.google.com/file/d/14R2tEb_t091IakDebLzfYDJnCSiqHQtM/preview",
             "title": "Vlog Setup",
             "category_label": "Content"
@@ -115,39 +115,151 @@
         {
             "type": "video",
             "category": "content-reels",
-            "thumb": "https://i.imgur.com/NHLvW3V.png",
+            "thumb": "https://i.imgur.com/ISEfqpj.png",
             "videoSrc": "https://drive.google.com/file/d/1y-xMzv877IH7VqGo9ergU6GqG_y1127O/preview",
             "title": "Workspace Tour",
             "category_label": "Content"
         },
         {
             "type": "video",
-            "category": "re-reels",
-            "thumb": "https://i.imgur.com/NHLvW3V.png",
+            "category": "content-reels",
+            "thumb": "https://i.imgur.com/1EHktHf.png",
+            "videoSrc": "https://drive.google.com/file/d/1aanCWFcyU-VjyQPV7w0Zmx_m0DX8uQkI/preview",
+            "title": "Workspace Tour",
+            "category_label": "Content"
+        },
+        {
+            "type": "video",
+            "category": "content-reels",
+            "thumb": "https://i.imgur.com/tHtzhUh.png",
+            "videoSrc": "https://drive.google.com/file/d/1zR-kM4LOL1XVHdu1AcbWBb7R5IRf-F6j/preview",
+            "title": "Workspace Tour",
+            "category_label": "Content"
+        },
+        {
+            "type": "video",
+            "category": "content-reels",
+            "thumb": "https://i.imgur.com/by6g7mo.png",
+            "videoSrc": "https://drive.google.com/file/d/1--q05y2a6cvdsaPYkgM_LCSxyqCzC2zK/preview",
+            "title": "Workspace Tour",
+            "category_label": "Content"
+        },
+        {
+            "type": "video",
+            "category": "content-reels",
+            "thumb": "https://i.imgur.com/BkyNI39.png",
+            "videoSrc": "https://drive.google.com/file/d/1I0J_BZAgjUBuWJppTc_vkGuO9lkGbFeO/preview",
+            "title": "Workspace Tour",
+            "category_label": "Content"
+        },
+        {
+            "type": "video",
+            "category": "content-reels",
+            "thumb": "https://i.imgur.com/VmzQqmK.png",
+            "videoSrc": "https://drive.google.com/file/d/1Tj9Mv1xqebKrfnCosRfmhmJbnnm3AGZb/preview",
+            "title": "Workspace Tour",
+            "category_label": "Content"
+        },
+        {
+            "type": "video",
+            "category": "content-reels",
+            "thumb": "https://i.imgur.com/AJyZySd.png",
+            "videoSrc": "https://drive.google.com/file/d/10M_mbDmHMJRJBM7BYw8KAwN2M2-dH13i/preview",
+            "title": "Workspace Tour",
+            "category_label": "Content"
+        },
+        {
+            "type": "video",
+            "category": "content-reels",
+            "thumb": "https://i.imgur.com/JOvXpuh.png",
+            "videoSrc": "https://drive.google.com/file/d/1E4bXQ_SFZb3lXt3u9Yx1v2QfGmz1GgKc/preview",
+            "title": "Workspace Tour",
+            "category_label": "Content"
+        },
+        {
+            "type": "video",
+            "category": "content-reels",
+            "thumb": "https://i.imgur.com/AJyZySd.png",
+            "videoSrc": "https://drive.google.com/file/d/1b2dcXboMs3rJbZEl9HrVaxNvXxkkgEgd/preview",
+            "title": "Workspace Tour",
+            "category_label": "Content"
+        },
+        {
+            "type": "video",
+            "category": "content-reels",
+            "thumb": "https://i.imgur.com/35DMZuO.png",
+            "videoSrc": "https://drive.google.com/file/d/1c8DIPwCGsj1akhLnYezIFnc6CSoYRO08/preview",
+            "title": "Workspace Tour",
+            "category_label": "Content"
+        },
+        {
+            "type": "video",
+            "category": "content-reels",
+            "thumb": "https://i.imgur.com/tixH35k.png",
+            "videoSrc": "https://drive.google.com/file/d/17X47y9g_xVe0EMlP9XqzoyzglGCtBXPp/preview",
+            "title": "Workspace Tour",
+            "category_label": "Content"
+        },
+        {
+            "type": "video",
+            "category": "content-reels",
+            "thumb": "https://i.imgur.com/xUOorZC.png",
             "videoSrc": "https://drive.google.com/file/d/10dBWkx0Je27G6kQjU5SNbk4bC1HAFQ0n/preview",
-            "title": "Modern Estate",
+            "title": "Workspace Tour",
+            "category_label": "Content"
+        },
+        {
+            "type": "video",
+            "category": "re-reels",
+            "thumb": "https://i.imgur.com/xUOorZC.png",
+            "videoSrc": "https://drive.google.com/file/d/10dBWkx0Je27G6kQjU5SNbk4bC1HAFQ0n/preview",
+            "title": "Modern Estate1",
             "category_label": "Real Estate"
         },
         {
             "type": "video",
             "category": "re-reels",
-            "thumb": "https://i.imgur.com/NHLvW3V.png",
+            "thumb": "https://i.imgur.com/KpqX99i.png",
             "videoSrc": "https://drive.google.com/file/d/1qxUAexBkBvDM-peh3TQRTB_E6Mg-nyFl/preview",
-            "title": "Cozy Interior",
+            "title": "Cozy Interior2",
             "category_label": "Real Estate"
         },
         {
             "type": "video",
             "category": "re-reels",
-            "thumb": "https://i.imgur.com/NHLvW3V.png",
+            "thumb": "https://i.imgur.com/RKVgtpp.png",
             "videoSrc": "https://drive.google.com/file/d/1rvMtXiahOgtuB2S_nIC9BuMSBlG2eJHL/preview",
-            "title": "Urban Living",
+            "title": "Urban Living3",
+            "category_label": "Real Estate"
+        },
+        {
+            "type": "video",
+            "category": "re-reels",
+            "thumb": "https://i.imgur.com/AYTXylI.png",
+            "videoSrc": "https://drive.google.com/file/d/1n8Es4q5w5bFiWLuxx0PEswLiydHuIjS8/preview",
+            "title": "Modern Estate4",
+            "category_label": "Real Estate"
+        },
+        {
+            "type": "video",
+            "category": "re-reels",
+            "thumb": "https://i.imgur.com/XWFrOkV.png",
+            "videoSrc": "https://drive.google.com/file/d/1b0Cpstd3WrEI4IKp63dArbjM0KUs0kZn/preview",
+            "title": "Cozy Interior5",
+            "category_label": "Real Estate"
+        },
+        {
+            "type": "video",
+            "category": "re-reels",
+            "thumb": "https://i.imgur.com/w7EUJZr.jpeg",
+            "videoSrc": "https://drive.google.com/file/d/1t9YpnipzRZ0C0DlPhiSd3nrrS_IY8A9j/preview",
+            "title": "Urban Living6",
             "category_label": "Real Estate"
         },
         {
             "type": "video",
             "category": "wed-reels",
-            "thumb": "https://i.imgur.com/NHLvW3V.png",
+            "thumb": "https://i.imgur.com/03HvcD2.png",
             "videoSrc": "https://drive.google.com/file/d/12FbB1fQgaJFD1SPXbExKnSVcRneCTTQ0/preview",
             "title": "Golden Hour",
             "category_label": "Wedding"
@@ -155,9 +267,113 @@
         {
             "type": "video",
             "category": "wed-reels",
-            "thumb": "https://i.imgur.com/NHLvW3V.png",
+            "thumb": "https://i.imgur.com/jEIh8ZQ.png",
             "videoSrc": "https://drive.google.com/file/d/1bPcOrOq-CAlIUTnmJcmIaWGC0dzUcBbN/preview",
             "title": "First Dance",
+            "category_label": "Wedding"
+        },
+        {
+            "type": "video",
+            "category": "wed-reels",
+            "thumb": "https://i.imgur.com/EX3IQnO.png",
+            "videoSrc": "https://drive.google.com/file/d/1D52_744kKNf3adeRVMPRdy7tRke-jMy7/preview",
+            "title": "Golden Hour",
+            "category_label": "Wedding"
+        },
+        {
+            "type": "video",
+            "category": "wed-reels",
+            "thumb": "https://i.imgur.com/AUAxO7i.png",
+            "videoSrc": "https://drive.google.com/file/d/1I7bdJ4xACOsz2erx-sN2Q_JHYf3qmnYS/preview",
+            "title": "First Dance",
+            "category_label": "Wedding"
+        },
+        {
+            "type": "video",
+            "category": "wed-reels",
+            "thumb": "https://i.imgur.com/C1c6pI5.png",
+            "videoSrc": "https://drive.google.com/file/d/11cIjqu5pv9rU9XgBOctYOdEKvmkXQhme/preview",
+            "title": "Golden Hour",
+            "category_label": "Wedding"
+        },
+        {
+            "type": "video",
+            "category": "wed-reels",
+            "thumb": "https://i.imgur.com/1WPqm28.png",
+            "videoSrc": "https://drive.google.com/file/d/1ZPFjdmL_zlwG5LVID1HZjNhMHeESkabG/preview",
+            "title": "First Dance",
+            "category_label": "Wedding"
+        },
+        {
+            "type": "video",
+            "category": "wed-reels",
+            "thumb": "https://i.imgur.com/Oh6dkcm.png",
+            "videoSrc": "https://drive.google.com/file/d/1Lh8w9Hz3dzEePMm7ldRjSuVdAb8402M6/preview",
+            "title": "Golden Hour",
+            "category_label": "Wedding"
+        },
+        {
+            "type": "video",
+            "category": "wed-reels",
+            "thumb": "https://i.imgur.com/w2Wavk7.png",
+            "videoSrc": "https://drive.google.com/file/d/1SBaUKx4LVoMq6DPmRhnGTKcLmtvcXFUz/preview",
+            "title": "First Dance8",
+            "category_label": "Wedding"
+        },
+        {
+            "type": "video",
+            "category": "wed-reels",
+            "thumb": "https://i.imgur.com/H0pcCdf.png",
+            "videoSrc": "https://drive.google.com/file/d/14d-z1LHMVfxrRV0r0X7rSMnnDzMMdXOq/preview",
+            "title": "Golden Hour",
+            "category_label": "Wedding"
+        },
+        {
+            "type": "video",
+            "category": "wed-reels",
+            "thumb": "https://i.imgur.com/Q6MCcqX.png",
+            "videoSrc": "https://drive.google.com/file/d/1boo2FSpxdemcQZEme80dOEeuumZqIWE3/preview",
+            "title": "First Dance",
+            "category_label": "Wedding"
+        },
+        {
+            "type": "video",
+            "category": "wed-reels",
+            "thumb": "https://i.imgur.com/YiC9EoG.png",
+            "videoSrc": "https://drive.google.com/file/d/1JvaudCGitYWPrQUs73Hk9CGe8N5CuWZ5/preview",
+            "title": "Golden Hour",
+            "category_label": "Wedding"
+        },
+        {
+            "type": "video",
+            "category": "wed-reels",
+            "thumb": "https://i.imgur.com/XdjSp6m.png",
+            "videoSrc": "https://drive.google.com/file/d/1CY82XX2sH7s1tsqnAsN_SA2CJ1zxuPA5/preview",
+            "title": "First Dance",
+            "category_label": "Wedding"
+        },
+        {
+            "type": "video",
+            "category": "wed-reels",
+            "thumb": "https://i.imgur.com/JuJFnCX.png",
+            "videoSrc": "https://drive.google.com/file/d/1ieYeLoz5jTDhkiFYYtFZeQIAbaANR_MZ/preview",
+            "title": "Golden Hour",
+            "category_label": "Wedding"
+        },
+        {
+            "type": "video",
+            "category": "wed-reels",
+            "thumb": "https://i.imgur.com/pyqk87e.png",
+            "videoSrc": "https://drive.google.com/file/d/1kpTwho4rX5HR_W1vvrYlMVMeht-30dQ8/preview",
+            "title": "First Dance",
+            "category_label": "Wedding"
+        },
+        {
+            "type": "video",
+            "category": "wed-reels",
+            "thumb": "https://i.imgur.com/6WSDs9T.png",
+            "videoSrc": "https://drive.google.com/file/d/1Oe774AlVCMQ3278yBTYEaXzssayQ3zAY/preview",
+            "title": "Golden Hour",
             "category_label": "Wedding"
         },
         {
