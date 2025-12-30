@@ -379,16 +379,56 @@
         {
             "type": "video",
             "category": "food-reels",
-            "thumb": "https://i.imgur.com/NHLvW3V.png",
-            "videoSrc": "https://drive.google.com/file/d/1rSM7kGVxIddFu8SSZLa3xRmr1xz4q33K/preview",
+            "thumb": "https://i.imgur.com/IWsXunx.png",
+            "videoSrc": "https://drive.google.com/file/d/1HI8wkBJa3Gd4pzk-K9wZ4zIo02JjVAYc/preview",
+            "title": "Sizzling Steak",
+            "category_label": "Food"
+        },
+        {
+            "type": "video",
+            "category": "food-reels",
+            "thumb": "https://i.imgur.com/qltPQJf.png",
+            "videoSrc": "https://drive.google.com/file/d/1InILydveC7-ecnVihKu4Z8UkU3J4a_1o/preview",
+            "title": "Sizzling Steak",
+            "category_label": "Food"
+        },
+        {
+            "type": "video",
+            "category": "food-reels",
+            "thumb": "https://i.imgur.com/Fk190So.png",
+            "videoSrc": "https://drive.google.com/file/d/11PlwrAsSohYAcTvS3xciZZ3qRMjdNdwU/preview",
             "title": "Sizzling Steak",
             "category_label": "Food"
         },
         {
             "type": "video",
             "category": "event-reels",
-            "thumb": "https://i.imgur.com/NHLvW3V.png",
-            "videoSrc": "https://drive.google.com/file/d/10dBWkx0Je27G6kQjU5SNbk4bC1HAFQ0n/preview",
+            "thumb": "https://i.imgur.com/EHRa8ud.png",
+            "videoSrc": "https://drive.google.com/file/d/1PI_5JUgZpJnh0nXWashimbtnOIJxI-hv/preview",
+            "title": "Neon Night",
+            "category_label": "Event"
+        },
+        {
+            "type": "video",
+            "category": "event-reels",
+            "thumb": "https://i.imgur.com/OiKcSNK.png",
+            "videoSrc": "https://drive.google.com/file/d/17yEVeUaY7OTHYiLzuClBPSDqSA16qlRh/preview",
+            "title": "Neon Night",
+            "category_label": "Event"
+        },
+        {
+            "type": "video",
+            "category": "event-reels",
+            "thumb": "https://i.imgur.com/4Y0CXRd.png",
+            "videoSrc": "https://drive.google.com/file/d/1Mfys1CQI-R5hKDRKHP_yZrB6pcHTaUMr/preview",
+            "title": "Neon Night",
+            "category_label": "Event"
+        },
+        {
+            "type": "video",
+            "category": "event-reels",
+            "thumb": "https://i.imgur.com/Axu7uAs.png",
+            "videoSrc": "https://drive.google.com/file/d/1q6-0g1o7rh0R_-aJKVXPphl5oLb5leol/preview",
             "title": "Neon Night",
             "category_label": "Event"
         }
