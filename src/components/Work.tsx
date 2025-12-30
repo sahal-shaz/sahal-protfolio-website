@@ -76,7 +76,7 @@ const Work = () => {
     const [filter, setFilter] = useState('all');
 
     const projects = [
-        { type: 'video', id: 'webVideo1', videoSrc: '/assets/vediio/topa.MP4', poster: '/assets/img/car main.jpg', title: 'Automotive Reels', category: 'web', galleryId: 'auto-reels' },
+        { type: 'video', id: 'webVideo1', videoSrc: '/assets/vediio/topa.MP4', poster: '/assets/img/t12.png', title: 'Automotive Reels', category: 'web', galleryId: 'auto-reels' },
         { type: 'image', src: '/assets/img/auto-photo-main.png', title: 'Automotive Photos', category: 'web', galleryId: 'auto-photos' },
         { type: 'video', id: 'mobilVideo', videoSrc: '/assets/vediio/content1.mp4', poster: '/assets/img/ss content.png', title: 'Content Creation', category: 'mobil', galleryId: 'content-reels' },
         { type: 'video', id: 'designVideo', videoSrc: '/assets/vediio/Piano Reel 05 March.mp4', poster: '/assets/img/ss2.png', title: 'Real estate Reels', category: 'design', galleryId: 're-reels' },
