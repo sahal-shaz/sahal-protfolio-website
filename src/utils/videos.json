@@ -3,7 +3,7 @@
         {
             "type": "video",
             "category": "auto-reels",
-            "thumb": "https://i.imgur.com/NHLvW3V.png",
+            "thumb": "https://i.imgur.com/p6KOkEQ.png",
             "videoSrc": "https://drive.google.com/file/d/1JQj8tZSzxRDvWYgPjmEM8bXottpUdTvo/preview",
             "title": "Speed & Elegance",
             "category_label": "Automotive"
@@ -11,7 +11,7 @@
         {
             "type": "video",
             "category": "auto-reels",
-            "thumb": "https://i.imgur.com/NHLvW3V.png",
+            "thumb": "https://i.imgur.com/vdJipDD.png",
             "videoSrc": "https://drive.google.com/file/d/1O2ONWEGsDH_GmSOAkuITfJJ-ETkMyDug/preview",
             "title": "Night Shift",
             "category_label": "Automotive"
@@ -19,7 +19,7 @@
         {
             "type": "video",
             "category": "auto-reels",
-            "thumb": "https://i.imgur.com/NHLvW3V.png",
+            "thumb": "https://i.imgur.com/XIdvu3C.png",
             "videoSrc": "https://drive.google.com/file/d/11e4RLR_W-9tQIAM8r_QFaVIdNJxs2K-F/preview",
             "title": "Drift King",
             "category_label": "Automotive"
@@ -27,7 +27,7 @@
         {
             "type": "video",
             "category": "auto-reels",
-            "thumb": "https://i.imgur.com/NHLvW3V.png",
+            "thumb": "https://i.imgur.com/XKecP9o.png",
             "videoSrc": "https://drive.google.com/file/d/17gGFiLwvt740DQoXrgyO2GjecM9n17UR/preview",
             "title": "City Lights",
             "category_label": "Automotive"
@@ -35,7 +35,7 @@
         {
             "type": "video",
             "category": "auto-reels",
-            "thumb": "https://i.imgur.com/NHLvW3V.png",
+            "thumb": "https://i.imgur.com/UFCPZQE.png",
             "videoSrc": "https://drive.google.com/file/d/1qjecuBMo3gVEmnK1PohIvln_H3IQG6rJ/preview",
             "title": "Mountain Pass",
             "category_label": "Automotive"
@@ -43,9 +43,57 @@
         {
             "type": "video",
             "category": "auto-reels",
-            "thumb": "https://i.imgur.com/NHLvW3V.png",
+            "thumb": "https://i.imgur.com/0abFrg1.png",
             "videoSrc": "https://drive.google.com/file/d/1J_5HZO3alWnIRJFowVRMuD6TUxiMKusZ/preview",
             "title": "Track Day",
+            "category_label": "Automotive"
+        },
+        {
+            "type": "video",
+            "category": "auto-reels",
+            "thumb": "https://i.imgur.com/LTa5w1N.png",
+            "videoSrc": "https://drive.google.com/file/d/1qezxxKaUPxIWBFFg9yda7qTM9He5_uYj/preview",
+            "title": "white",
+            "category_label": "Automotive"
+        },
+        {
+            "type": "video",
+            "category": "auto-reels",
+            "thumb": "https://i.imgur.com/AG4OMky.png",
+            "videoSrc": "https://drive.google.com/file/d/1y1h0GQttGBphf8ow7UX0QfhrrL2j2OOy/preview",
+            "title": "Green",
+            "category_label": "Automotive"
+        },
+        {
+            "type": "video",
+            "category": "auto-reels",
+            "thumb": "https://i.imgur.com/Ct8AjNV.png",
+            "videoSrc": "https://drive.google.com/file/d/16f62hAWPTe3YMk__jtvAvy36jsEhbRX4/preview",
+            "title": "Dark",
+            "category_label": "Automotive"
+        },
+        {
+            "type": "video",
+            "category": "auto-reels",
+            "thumb": "https://i.imgur.com/QY5Tl1O.png",
+            "videoSrc": "https://drive.google.com/file/d/1dWf2T0epyELxNYYJqOKWLhlDEVxtmLxn/preview",
+            "title": "Red",
+            "category_label": "Automotive"
+        },
+        {
+            "type": "video",
+            "category": "auto-reels",
+            "thumb": "https://i.imgur.com/Og15DA1.png",
+            "videoSrc": "https://drive.google.com/file/d/1BZ6356OPASwktpIqXPwGXSze1r0s-2EP/preview",
+            "title": "Black",
+            "category_label": "Automotive"
+        },
+        {
+            "type": "video",
+            "category": "auto-reels",
+            "thumb": "https://i.imgur.com/AWH1W37.png",
+            "videoSrc": "https://drive.google.com/file/d/1fCZeDM3b6OK3cARkIKZ4K_Dii05RgCUV/preview",
+            "title": "Black",
             "category_label": "Automotive"
         },
         {
