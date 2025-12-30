@@ -10,7 +10,14 @@
         {
             "type": "image",
             "category": "auto-photos",
-            "src": "https://i.imgur.com/ks9Qs3K.png",
+            "src": "https://drive.google.com/file/d/1lwJdIOgdfB72wYt1qSYI5LicrC_ZYLHx/preview",
+            "title": "Luxury Sedan Detail",
+            "description": "Close-up of leather interior"
+        },
+        {
+            "type": "image",
+            "category": "auto-photos",
+            "src": "https://i.imgur.com/BOqZnvJ.png",
             "title": "Speed on Track",
             "description": "Motion blur shot of a supercar"
         },
