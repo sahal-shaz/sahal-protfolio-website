@@ -438,7 +438,8 @@
             "thumb": "https://i.imgur.com/Axu7uAs.png",
             "videoSrc": "https://drive.google.com/file/d/1GMRF7LXovQFroJ3zLhe_SxZGVQ8ZRUNe/preview",
             "title": "Neon Night",
-            "category_label": "Event"
+            "category_label": "Event",
+            "orientation": "landscape"
         }
     ],
     "filters": [

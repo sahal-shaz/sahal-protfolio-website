@@ -446,8 +446,9 @@
 }
 
 .media-modal-video.landscape {
-    width: 60vw;
+    width: 85vw;
     height: auto;
+    max-height: 85vh;
     aspect-ratio: 16 / 9;
 }
 
