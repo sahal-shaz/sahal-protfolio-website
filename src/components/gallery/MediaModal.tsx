@@ -12,6 +12,7 @@ interface MediaModalProps {
         thumb?: string;
         title: string;
         category: string;
+        orientation?: 'portrait' | 'landscape';
     } | null;
 }
 
@@ -63,7 +64,7 @@ export const MediaModal = ({ isOpen, onClose, item }: MediaModalProps) => {
                                 <iframe
                                     src={item.videoSrc}
                                     allow="autoplay"
-                                    className="media-modal-video"
+                                    className={`media-modal-video ${item.orientation || 'portrait'}`}
                                     title={item.title}
                                 ></iframe>
                             )}

@@ -436,14 +436,25 @@
 }
 
 .media-modal-video {
-    height: 80vh;
-    aspect-ratio: 9 / 16;
     width: auto;
     max-width: 100%;
 }
 
+.media-modal-video.portrait {
+    height: 80vh;
+    aspect-ratio: 9 / 16;
+}
+
+.media-modal-video.landscape {
+    width: 60vw;
+    height: auto;
+    aspect-ratio: 16 / 9;
+}
+
 @media (max-width: 768px) {
-    .media-modal-video {
+
+    .media-modal-video.portrait,
+    .media-modal-video.landscape {
         width: 100%;
         height: auto;
         max-height: 80vh;

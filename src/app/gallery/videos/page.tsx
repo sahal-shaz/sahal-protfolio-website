@@ -11,6 +11,7 @@ interface VideoItem {
     videoSrc: string;
     title: string;
     category_label: string;
+    orientation?: "portrait" | "landscape";
 }
 
 export default function VideosPage() {
