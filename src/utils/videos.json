@@ -3,7 +3,7 @@
         {
             "type": "video",
             "category": "auto-reels",
-            "thumb": "https://i.imgur.com/p6KOkEQ.png",
+            "thumb": "https://i.imgur.com/xyEbK7V.jpeg",
             "videoSrc": "https://drive.google.com/file/d/1JQj8tZSzxRDvWYgPjmEM8bXottpUdTvo/preview",
             "title": "Speed & Elegance",
             "category_label": "Automotive"
@@ -429,6 +429,14 @@
             "category": "event-reels",
             "thumb": "https://i.imgur.com/Axu7uAs.png",
             "videoSrc": "https://drive.google.com/file/d/1q6-0g1o7rh0R_-aJKVXPphl5oLb5leol/preview",
+            "title": "Neon Night",
+            "category_label": "Event"
+        },
+        {
+            "type": "video",
+            "category": "event-reels",
+            "thumb": "https://i.imgur.com/Axu7uAs.png",
+            "videoSrc": "https://drive.google.com/file/d/1GMRF7LXovQFroJ3zLhe_SxZGVQ8ZRUNe/preview",
             "title": "Neon Night",
             "category_label": "Event"
         }

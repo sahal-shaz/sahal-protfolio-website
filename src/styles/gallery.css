@@ -417,7 +417,8 @@
 }
 
 .media-modal-content {
-    width: 100%;
+    width: auto;
+    max-width: 100%;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -430,21 +431,22 @@
 
 .media-modal-image {
     max-width: 100%;
-    max-height: 75vh;
+    max-height: 80vh;
     object-fit: contain;
 }
 
 .media-modal-video {
-    width: 100%;
-    aspect-ratio: 16 / 9;
-    max-height: 75vh;
+    height: 80vh;
+    aspect-ratio: 9 / 16;
+    width: auto;
+    max-width: 100%;
 }
 
-@media (max-aspect-ratio: 1/1) {
+@media (max-width: 768px) {
     .media-modal-video {
-        aspect-ratio: 9 / 16;
-        width: auto;
-        height: 75vh;
+        width: 100%;
+        height: auto;
+        max-height: 80vh;
     }
 }
 
