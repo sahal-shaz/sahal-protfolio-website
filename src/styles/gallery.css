@@ -438,7 +438,6 @@
 .media-modal-video {
     width: auto;
     max-width: 100%;
-    transform: scale(1.3);
     border: none;
 }
 

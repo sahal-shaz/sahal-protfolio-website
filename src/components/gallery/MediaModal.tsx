@@ -63,7 +63,7 @@ export const MediaModal = ({ isOpen, onClose, item }: MediaModalProps) => {
                             ) : (
                                 <iframe
                                     src={item.videoSrc}
-                                    allow="autoplay"
+                                    allow="autoplay; fullscreen"
                                     className={`media-modal-video ${item.orientation || 'portrait'}`}
                                     title={item.title}
                                 ></iframe>
