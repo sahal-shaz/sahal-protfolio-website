@@ -17,7 +17,7 @@ const Hero = () => {
                     <h3 className="home__education mt-4">PHOTOGRAPHER / VIDEOGRAPHER / EDITOR</h3>
 
                     <div className="home__buttons">
-                        <a download="" href="/assets/pdf/photographer-muhammed-sahal-tk.pdf" className="button button--ghost">
+                        <a download="" href="assets/pdf/MUHAMMED SAHAL T K Videographer (1).pdf" className="button button--ghost">
                             Download CV
                         </a>
                         <a href="#about" className="button">About me</a>
