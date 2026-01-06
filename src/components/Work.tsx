@@ -1,12 +1,13 @@
 'use client';
 
-import React, { useState } from 'react';
+import React, { useState, useRef } from 'react';
 
 const VideoCard = ({ id, videoSrc, poster, title, category, galleryId }: { id: string, videoSrc: string, poster: string, title: string, category: string, galleryId: string }) => {
     const [isPlaying, setIsPlaying] = useState(false);
+    const videoRef = useRef<HTMLVideoElement>(null);
 
     const togglePlay = () => {
-        const video = document.getElementById(id) as HTMLVideoElement;
+        const video = videoRef.current;
         if (video) {
             if (video.paused) {
                 video.play();
@@ -24,12 +25,14 @@ const VideoCard = ({ id, videoSrc, poster, title, category, galleryId }: { id: s
         <div className={`work__card mix ${category}`}>
             <div className="video-box">
                 <video
+                    ref={videoRef}
                     className="work__video"
                     id={id}
                     poster={poster}
                     playsInline
+                    src={videoSrc}
                     onEnded={() => {
-                        const video = document.getElementById(id) as HTMLVideoElement;
+                        const video = videoRef.current;
                         if (video) {
                             video.controls = false;
                             video.load();
@@ -37,13 +40,11 @@ const VideoCard = ({ id, videoSrc, poster, title, category, galleryId }: { id: s
                         setIsPlaying(false);
                     }}
                     onPause={() => {
-                        const video = document.getElementById(id) as HTMLVideoElement;
+                        const video = videoRef.current;
                         if (video) video.controls = false;
                         setIsPlaying(false);
                     }}
-                >
-                    <source src={videoSrc} type="video/mp4" />
-                </video>
+                />
                 <div className={`play-overlay ${isPlaying ? 'hidden' : ''}`} onClick={togglePlay}>
                     <div className="play-circle">
                         <div className="play-triangle"></div>
@@ -110,7 +111,7 @@ const Work = () => {
                 {filteredProjects.map((p, index) => (
                     p.type === 'video' ? (
                         <VideoCard
-                            key={index}
+                            key={p.id}
                             id={p.id!}
                             videoSrc={p.videoSrc!}
                             poster={p.poster!}
@@ -120,7 +121,7 @@ const Work = () => {
                         />
                     ) : (
                         <ImageCard
-                            key={index}
+                            key={p.src}
                             src={p.src!}
                             title={p.title}
                             category={p.category}
